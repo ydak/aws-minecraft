@@ -1,2 +1,0 @@
-# aws-minecraft
-aws-minecraft
